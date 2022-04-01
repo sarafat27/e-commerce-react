@@ -1,0 +1,11 @@
+.review-items-container {
+    margin: 0 auto;
+}
+
+.proceed-btn {
+    background-color: azure;
+    color: black;
+    font-weight: 900;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
